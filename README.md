@@ -4,7 +4,7 @@ A modern React application built with Vite, TypeScript, and Tailwind CSS.
 
 ## 🚀 Deployment
 
-This project is configured for GitHub Pages deployment. The site is available at: https://vokondo.github.io/t001/
+This project is configured for GitHub Pages deployment. The site is available at: https://vokondo.github.io/tr001/
 
 ### Automatic Deployment
 
